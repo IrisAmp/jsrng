@@ -1,0 +1,22 @@
+{
+  "name": "jsrng",
+  "version": "0.0.0",
+  "description": "A simple and effective random number generator for JavaScript.",
+  "main": "dist/jsrng.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrisAmp/jsrng.git"
+  },
+  "keywords": [
+    "Random",
+    "RNG"
+  ],
+  "author": "Brandon Yue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IrisAmp/jsrng/issues"
+  },
+  "homepage": "https://github.com/IrisAmp/jsrng#readme"
+}
